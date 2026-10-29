@@ -1,0 +1,55 @@
+INSURANCE CLAIM REPORT
+Claim Number: CLM-2025-002
+Date of Incident: 2025-09-03
+Policy Number: POL-HOME-998341
+
+CLAIMANT INFORMATION
+Name: [Claimant Name]
+Policy Type: Homeowners Insurance (HO-3)
+Property Address: [Property Address]
+
+INCIDENT DESCRIPTION
+A burst pipe in the second-floor bathroom caused extensive water damage to the
+property. The pipe failure occurred in the supply line to the bathroom sink while
+the homeowner was away at work. Water flowed for approximately 6 hours before
+being discovered by a neighbor who noticed water seeping from the front door.
+The water damage affected the second-floor bathroom, hallway, and the first-floor
+living room and kitchen directly below.
+
+DAMAGE ASSESSMENT
+Second Floor:
+- Bathroom flooring (tile): Requires removal and replacement
+- Bathroom vanity and cabinet: Water-logged, requires replacement
+- Hallway hardwood flooring (200 sq ft): Warped, requires replacement
+- Drywall damage in bathroom and hallway: Requires removal and replacement
+
+First Floor:
+- Living room ceiling: Collapsed in two areas, requires full replacement
+- Living room carpet (350 sq ft): Saturated, requires replacement
+- Kitchen ceiling: Water stains and sagging, requires replacement
+- Kitchen cabinets (lower): Water damage to base, 4 cabinets need replacement
+
+Additional:
+- Mold remediation required in wall cavities
+- Electrical inspection and repair needed
+- Personal property damage (furniture, electronics): $4,500
+
+Estimated Structural Repair Cost: $38,500
+Personal Property Damage: $4,500
+Emergency Mitigation (water extraction, drying): $3,200
+Total Estimated Cost: $46,200
+
+MITIGATION ACTIONS TAKEN
+Emergency water extraction service called within 2 hours of discovery.
+Industrial dehumidifiers and fans placed throughout affected areas.
+Temporary housing arranged for the claimant family (estimated 3-4 weeks).
+
+ADJUSTER NOTES
+Pipe failure appears to be due to age and corrosion, not negligence.
+No evidence of pre-existing damage or deferred maintenance.
+Claim falls within policy coverage limits.
+
+RECOMMENDATION
+Approve claim for structural repairs ($38,500), personal property ($4,500),
+and emergency mitigation ($3,200). Temporary housing allowance per policy terms.
+Total Claim Amount: $46,200

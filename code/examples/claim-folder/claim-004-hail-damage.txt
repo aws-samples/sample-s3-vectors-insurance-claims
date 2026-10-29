@@ -1,0 +1,64 @@
+INSURANCE CLAIM REPORT
+Claim Number: CLM-2025-004
+Date of Incident: 2025-07-28
+Policy Number: POL-HOME-554210
+
+CLAIMANT INFORMATION
+Name: [Claimant Name]
+Policy Type: Homeowners Insurance (HO-3)
+Property Address: [Property Address]
+
+INCIDENT DESCRIPTION
+A severe hailstorm with hailstones measuring up to 2 inches in diameter struck
+the area on the evening of July 28, 2025. The storm lasted approximately 25
+minutes and caused widespread damage to the property's roof, siding, and outdoor
+structures. Multiple neighbors in the area have also filed claims for similar damage.
+The National Weather Service confirmed a severe thunderstorm warning was in effect
+for the area with reports of large hail.
+
+DAMAGE ASSESSMENT
+Roof:
+- Asphalt shingle roof (2,400 sq ft): Extensive hail impact damage
+- Multiple shingles cracked, granule loss across entire roof surface
+- Roof requires full replacement (repair not feasible due to extent of damage)
+- Roof age: 8 years (expected lifespan 20-25 years)
+
+Siding:
+- Vinyl siding on north and west facing walls: Cracked and dented
+- Approximately 40% of siding requires replacement
+- Window trim damage on 6 windows
+
+Outdoor Structures:
+- Detached garage roof: Similar hail damage, requires replacement
+- Wooden deck: Surface damage from hail impact
+- Gutters and downspouts: Dented and damaged, full replacement needed
+
+Vehicles (separate auto claims):
+- 2022 Ford F-150: Roof and hood dents (filed under auto policy)
+
+Estimated Costs:
+- Main roof replacement: $18,500
+- Garage roof replacement: $4,200
+- Siding replacement: $8,800
+- Gutter replacement: $2,100
+- Window trim repair: $1,400
+- Deck repair: $900
+Total Estimated Cost: $35,900
+
+WEATHER DOCUMENTATION
+- NWS Severe Thunderstorm Warning issued at 6:15 PM
+- Hail reports from storm spotters: 1.5 to 2.0 inch diameter
+- Storm duration: 6:30 PM to 6:55 PM
+- Wind gusts up to 60 mph reported
+
+ADJUSTER NOTES
+Damage is consistent with reported hail size and storm conditions.
+Roof damage is beyond repair threshold and full replacement is warranted.
+No pre-existing damage observed. Property was well-maintained.
+Depreciation applied to roof based on 8 years of 25-year expected life.
+
+RECOMMENDATION
+Approve claim at full estimated cost ($35,900) minus deductible ($1,000)
+and depreciation on roof ($5,920).
+Net Claim Amount: $28,980
+Recoverable depreciation available upon completion of repairs: $5,920

@@ -1,0 +1,70 @@
+INSURANCE CLAIM REPORT
+Claim Number: CLM-2025-006
+Date of Incident: 2025-06-14
+Policy Number: POL-HEALTH-887234
+
+CLAIMANT INFORMATION
+Name: [Claimant Name]
+Policy Type: Health Insurance (PPO Plan)
+Group: Employer-Sponsored Group Plan
+
+INCIDENT DESCRIPTION
+The insured sustained injuries in a workplace accident at a warehouse facility.
+While operating a forklift, a stack of pallets shifted and fell, striking the
+insured on the left shoulder and upper back. The insured was transported by
+ambulance to Regional Medical Center for emergency evaluation and treatment.
+
+MEDICAL TREATMENT SUMMARY
+Emergency Department (Day 1):
+- X-rays of left shoulder, cervical spine, and thoracic spine
+- CT scan of left shoulder
+- Diagnosis: Left shoulder rotator cuff tear (partial), thoracic contusion
+- Pain management initiated, arm sling applied
+- Referred to orthopedic specialist
+
+Orthopedic Consultation (Day 5):
+- MRI of left shoulder confirmed partial rotator cuff tear
+- Recommended arthroscopic surgery for repair
+- Pre-surgical physical therapy prescribed (4 weeks)
+
+Arthroscopic Surgery (Day 35):
+- Procedure: Left shoulder arthroscopic rotator cuff repair
+- Facility: Regional Medical Center Outpatient Surgery
+- Surgeon: [Surgeon Name], MD
+- Procedure duration: 2.5 hours
+- Discharged same day
+
+Post-Surgical Rehabilitation (Weeks 6-18):
+- Physical therapy 3x per week for 12 weeks
+- Gradual return to work program initiated at week 10
+- Full duty clearance expected at week 20
+
+MEDICAL EXPENSES
+- Emergency department visit: $4,800
+- Ambulance transport: $1,200
+- Diagnostic imaging (X-ray, CT, MRI): $3,500
+- Orthopedic consultations (3 visits): $1,050
+- Arthroscopic surgery (facility + surgeon): $22,000
+- Anesthesia: $3,200
+- Physical therapy (36 sessions): $5,400
+- Prescription medications: $850
+- Durable medical equipment (sling, ice machine): $350
+Total Medical Expenses: $42,350
+
+WORK IMPACT
+- Total days missed from work: 45
+- Light duty days: 30
+- Workers compensation claim filed separately
+- Expected full return to duty: 20 weeks post-injury
+
+ADJUSTER NOTES
+All treatment appears medically necessary and within standard of care.
+Pre-authorization obtained for surgery and physical therapy.
+In-network providers used for all treatment.
+Workers compensation coordination of benefits applies.
+
+RECOMMENDATION
+Approve medical expenses per policy terms.
+Apply in-network benefit rates and deductible ($2,000 annual).
+Coordinate with workers compensation for primary coverage determination.
+Patient responsibility after insurance: Estimated $6,200 (deductible + copays)

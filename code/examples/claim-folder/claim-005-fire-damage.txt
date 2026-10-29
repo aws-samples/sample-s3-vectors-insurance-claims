@@ -1,0 +1,59 @@
+INSURANCE CLAIM REPORT
+Claim Number: CLM-2025-005
+Date of Incident: 2025-11-10
+Policy Number: POL-HOME-221478
+
+CLAIMANT INFORMATION
+Name: [Claimant Name]
+Policy Type: Homeowners Insurance (HO-3)
+Property Address: [Property Address]
+
+INCIDENT DESCRIPTION
+A kitchen fire originated from an unattended stovetop at approximately 7:30 PM.
+The fire spread from a grease pan to the overhead cabinets and exhaust hood before
+the homeowner was able to use a fire extinguisher. The fire department arrived
+within 8 minutes and fully extinguished the fire. Damage was contained primarily
+to the kitchen area, but smoke damage extended throughout the first floor and
+into the second floor via the stairwell and HVAC system.
+
+DAMAGE ASSESSMENT
+Kitchen (fire and smoke damage):
+- All upper and lower cabinets: Destroyed, full replacement required
+- Countertops (granite): Heat-cracked, full replacement required
+- Appliances (stove, microwave, dishwasher, refrigerator): Destroyed or damaged beyond repair
+- Kitchen flooring (hardwood): Charred and water-damaged, replacement required
+- Ceiling and drywall: Fire and water damage, full replacement
+- Electrical wiring in kitchen: Damaged, requires rewiring
+- Plumbing fixtures: Heat-damaged sink and faucet
+
+First Floor (smoke damage):
+- Living room: Smoke residue on walls, ceiling, and furniture
+- Dining room: Smoke residue, curtains and upholstery require replacement
+- Hallway: Smoke damage to walls and ceiling
+- All first-floor carpeting: Smoke odor, requires replacement
+
+Second Floor (smoke damage):
+- Smoke residue in all bedrooms via HVAC system
+- Clothing and linens: Smoke odor, professional cleaning required
+- HVAC ductwork: Requires professional cleaning
+
+Estimated Costs:
+- Kitchen rebuild: $42,000
+- First floor smoke remediation and repairs: $15,500
+- Second floor smoke remediation: $6,800
+- HVAC cleaning and repair: $3,200
+- Personal property (appliances, furniture, clothing): $18,500
+- Temporary housing (estimated 8-10 weeks): $12,000
+Total Estimated Cost: $98,000
+
+FIRE DEPARTMENT REPORT
+Report Number: FD-2025-3847
+Cause: Unattended cooking, grease fire
+Origin: Kitchen stovetop
+No injuries reported
+Structure deemed safe for remediation work
+
+RECOMMENDATION
+Approve claim for full estimated cost ($98,000) minus deductible ($1,500).
+Net Claim Amount: $96,500
+Temporary housing to be provided per policy terms during reconstruction.

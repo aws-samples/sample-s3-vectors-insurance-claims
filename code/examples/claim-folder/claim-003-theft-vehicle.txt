@@ -1,0 +1,55 @@
+INSURANCE CLAIM REPORT
+Claim Number: CLM-2025-003
+Date of Incident: 2025-10-22
+Policy Number: POL-AUTO-667123
+
+CLAIMANT INFORMATION
+Name: [Claimant Name]
+Policy Type: Comprehensive Auto Insurance
+Vehicle: 2024 Toyota RAV4, Blue, VIN: 2T3P1RFV8RC000002
+
+INCIDENT DESCRIPTION
+The insured vehicle was stolen from the parking garage at Riverside Shopping Mall
+between 2:00 PM and 5:30 PM. The claimant parked the vehicle on Level 3 of the
+garage and returned after shopping to find the vehicle missing. Security camera
+footage from the garage shows two individuals entering the vehicle at approximately
+3:15 PM using what appears to be a relay attack on the keyless entry system.
+The vehicle has not been recovered as of the date of this report.
+
+VEHICLE DETAILS
+- Make/Model: 2024 Toyota RAV4 XLE Premium
+- Purchase Date: 2024-03-15
+- Purchase Price: $38,900
+- Current Market Value (KBB): $34,200
+- Outstanding Loan Balance: $28,500
+- Mileage at time of theft: 18,400 miles
+
+PERSONAL PROPERTY IN VEHICLE
+- Laptop computer: $1,200
+- Golf clubs: $800
+- Child car seat: $350
+- Miscellaneous personal items: $200
+Total Personal Property: $2,550
+
+POLICE REPORT
+Report Number: PD-2025-91205
+Investigating Officer: [Officer Name], Badge #3892
+Case Status: Open, under investigation
+Vehicle entered into NCIC stolen vehicle database
+
+ANTI-THEFT MEASURES
+- Factory keyless entry system
+- GPS tracking (disabled by thieves)
+- Steering wheel lock was not in use at time of theft
+
+ADJUSTER NOTES
+Relay attacks on keyless entry systems are an increasing trend for this vehicle
+model. No evidence of claimant negligence. Vehicle was locked and parked in a
+well-lit area of the garage. Waiting period of 30 days per policy terms before
+total theft settlement.
+
+RECOMMENDATION
+If vehicle not recovered within 30-day waiting period, approve total theft
+claim at current market value ($34,200) minus deductible ($500).
+Personal property claim ($2,550) to be processed under comprehensive coverage.
+Settlement Amount: $33,700 (vehicle) + $2,550 (property) = $36,250

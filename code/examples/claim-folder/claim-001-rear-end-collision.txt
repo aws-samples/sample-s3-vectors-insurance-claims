@@ -1,0 +1,40 @@
+INSURANCE CLAIM REPORT
+Claim Number: CLM-2025-001
+Date of Incident: 2025-08-15
+Policy Number: POL-AUTO-445892
+
+CLAIMANT INFORMATION
+Name: [Claimant Name]
+Policy Type: Comprehensive Auto Insurance
+Vehicle: 2023 Honda Accord, Silver, VIN: 1HGCV1F34PA000001
+
+INCIDENT DESCRIPTION
+The insured vehicle was rear-ended while stopped at a red light at the intersection
+of Main Street and Oak Avenue. The at-fault driver was distracted by a mobile phone
+and failed to stop in time. The collision caused significant damage to the rear bumper,
+trunk lid, and tail lights of the insured vehicle. The at-fault driver's insurance
+information was obtained at the scene.
+
+DAMAGE ASSESSMENT
+- Rear bumper: Crushed, requires full replacement
+- Trunk lid: Dented and misaligned, requires replacement
+- Tail light assembly (both sides): Shattered, requires replacement
+- Rear quarter panel (right): Minor dent, repairable
+- Exhaust system: Bent, requires realignment
+Estimated Repair Cost: $7,200
+
+INJURIES REPORTED
+The claimant reports neck stiffness and lower back pain following the collision.
+Medical evaluation at City General Hospital Emergency Department confirmed mild
+whiplash (cervical strain). Physical therapy recommended for 6-8 weeks.
+Medical Expenses to Date: $2,400
+
+POLICE REPORT
+Report Number: PD-2025-78432
+Officer: [Officer Name], Badge #4521
+Citations: At-fault driver cited for distracted driving
+
+RECOMMENDATION
+Approve claim for vehicle repair ($7,200) and medical expenses ($2,400).
+Subrogation recommended against at-fault driver's insurance carrier.
+Total Claim Amount: $9,600
